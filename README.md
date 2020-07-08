@@ -9,7 +9,7 @@ You will find in this repository the apps that i implemented.
 ### Contents 
 
 | Project | Estimation | Status |
-| ------ | ------ | :------: | :------: |
+| ------ | ------ | :------: |
 | [Send It](https://github.com/Chahi-Rabie-Ala-Eddine/Send-It) | ~1 mounths | 🛠️ |
 
 ## License & copyright
